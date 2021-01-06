@@ -1,4 +1,4 @@
-# festa
+# Semantic-Segmentation-with-Sparse-Labels
 The labels and codes for [Semantic Segmentation of Remote Sensing Images with Sparse Annotations]().
 
 If you find they are useful, please kindly cite the following:
