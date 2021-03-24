@@ -1,6 +1,11 @@
 # Semantic-Segmentation-with-Sparse-Labels
 The labels and codes for [Semantic Segmentation of Remote Sensing Images with Sparse Annotations](https://arxiv.org/pdf/2101.03492.pdf).
 
+## Data
+
+## Usage
+
+## Citation
 If you find they are useful, please kindly cite the following:
 ```
 @article{hua2021sparse,
