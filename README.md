@@ -7,11 +7,16 @@ We provided three types of sparse annotations: point, scribble, and polygon.
 ## Usage
 1) install dependencies in ```requirements.txt```
 2) download [data](https://drive.google.com/file/d/1E4bhx3H6P8jTdOQG6hS14G_gBBhvwzWU/view?usp=sharing) and unzip in the folder ```data```. The directory structure should be as follows:
-path/to/coco/
-  annotations/  # annotation json files
-  train2017/    # train images
-  val2017/      # val images
-
+```
+  path/to/data/
+    City/  # Vaihingen or Zurich
+      eroded_gt/  # dense gt without boundaries
+      gt/         # dense gt
+      img/        # images
+      line/       # line/scribble-level sparse annotations
+      point/      # point-level sparse annotations
+      polygon/    # polygon-level sparse annotations
+```
 3) download [weights](https://drive.google.com/file/d/10BYt1lvRNBtgx76lMiuWj7J2kF-tSBV1/view?usp=sharing) and unzip it in the folder ```weights```.
 4) run ```python train.py``` and ```python test.py``` for testing and training
 
