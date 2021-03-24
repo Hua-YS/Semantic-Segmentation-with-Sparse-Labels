@@ -4,6 +4,7 @@ The labels and codes for [Semantic Segmentation of Remote Sensing Images with Sp
 ## Data
 We provided three types of sparse annotations: polygon, scribble, and point.
 ![avatar](./data_example.png  =100x20)
+<img src="./data_example.png" width = "300" height = "200" alt="example" align=center />
 
 ## Usage
 1) install dependencies in ```requirements.txt```
