@@ -18,7 +18,7 @@ We provided three types of sparse annotations: point, scribble, and polygon.
       eroded_gt/  # dense gt without boundaries
       
 ```
-3) download [weights](https://drive.google.com/file/d/10BYt1lvRNBtgx76lMiuWj7J2kF-tSBV1/view?usp=sharing) and unzip it in the folder ```weights```.
+3) download and unzip [weights](https://drive.google.com/file/d/10BYt1lvRNBtgx76lMiuWj7J2kF-tSBV1/view?usp=sharing) in the folder ```weights```.
 4) run ```python train.py``` and ```python test.py``` for testing and training
 
 ## Citation
