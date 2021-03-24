@@ -6,7 +6,7 @@ We provided three types of sparse annotations: point, scribble, and polygon.
 
 ## Usage
 1) Install dependencies in ```requirements.txt```
-2) Download [data]() and [weights]() to respective folders and unzip them
+2) Download [data]() and [weights](https://drive.google.com/file/d/10BYt1lvRNBtgx76lMiuWj7J2kF-tSBV1/view?usp=sharing) to respective folders and unzip them
 3) run ```python train.py``` and ```python test.py``` for testing and training
 
 ## Citation
